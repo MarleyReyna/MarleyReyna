@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarleyReyna
 - 👀 I’m interested in ... learning and getting better at front-end development
-- 🌱 I’m currently learning ... ReactJS and Sass
+- 🌱 I’m currently learning ... ReactJS, Sass, and Tailwind
 - 📫 How to reach me ... marley.reyna510@gmail.com
 
 <!---
