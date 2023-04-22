@@ -7,7 +7,7 @@ Front-End Developer
 I'm a front-end developer that has experience with technologies such as React, Vue, Sass, Tailwind and more.
 
 * 🌍  I'm based in Austin
-* ✉️  You can contact me at [marley.reyna510@gmail.com](mailto:marley.reyna510@gmail.com)
+* ✉️  You can contact me at [marley.reyna2@gmail.com](mailto:marley.reyna2@gmail.com)
 
 ### Skills
 
